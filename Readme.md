@@ -47,4 +47,4 @@
 >Light Mode
 
 ---
-To view a live demo,[click here](https://minimalist-porfolio.github.io.index.html)
+To view a live demo,[click here](https://minimalist-porfolio.github.io)
