@@ -48,7 +48,7 @@
 
 ---
 
-![Image](/Dark_sc.png)
+![Image](/dark_sc.png)
 
 >Dark Mode
 
