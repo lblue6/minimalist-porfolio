@@ -53,4 +53,4 @@
 >Dark Mode
 
 
-To view a live demo,[click here](https://minimalist-porfolio.github.io)
+To view a live demo,[click here](https://lblue6.github.io/minimalist-porfolio.github.io)
