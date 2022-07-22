@@ -28,7 +28,7 @@
 * Replaced the content with your's info.
 
 ## TODO
-* Have to setup Gulp or Webpack for minification of script files.
+* Have to setup popper for minification of script files.
 * Make it dynamic
 * Provide feature to change the themes or colors easily.
 
