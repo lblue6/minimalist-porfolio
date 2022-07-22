@@ -38,7 +38,7 @@
 ---
 ## Screenshots
 
-![Image](/img/Demo_sc.png)  
+![Image](/Demo_sc.png)  
   
   
 
