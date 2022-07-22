@@ -47,4 +47,10 @@
 >Light Mode
 
 ---
+
+![Image](/Dark_sc.png)
+
+>Dark Mode
+
+
 To view a live demo,[click here](https://minimalist-porfolio.github.io)
